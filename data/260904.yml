@@ -7,7 +7,7 @@ about:
   head: b4378e9
   archived: false
   latestVersion: v0.10.9
-  collectedAt: 2026-09-04T19:30:42Z
+  collectedAt: 2026-09-04T21:00:37Z
 timeline:
   created: 2024-09-08
   lastCommit: 2026-09-02
@@ -84,5 +84,48 @@ total:
   openIssue: 43
   commit: 1346
 ---
+path: /home/runner/.x-repo/github.com/idursun/jjui
+collectedAt: 2026-09-04T21:00:38Z
+loc:
+  Go:
+    code: 41331
+    comments: 1186
+    blanks: 6153
+    files: 257
+  Toml:
+    code: 489
+    comments: 45
+    blanks: 48
+    files: 3
+  Nix:
+    code: 188
+    comments: 3
+    blanks: 21
+    files: 11
+  Dockerfile:
+    code: 49
+    comments: 5
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 22
+    comments: 0
+    blanks: 1
+    files: 2
+  Lua:
+    code: 19
+    comments: 530
+    blanks: 67
+    files: 1
+  Markdown:
+    code: 0
+    comments: 362
+    blanks: 212
+    files: 6
+total:
+  code: 42127
+  comments: 2139
+  blanks: 6515
+  files: 281
 ---
 
