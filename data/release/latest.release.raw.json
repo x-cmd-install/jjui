@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5688779,
       "digest": "sha256:563dd71a0748fe91baae7a31ff42173df1ac82d566dbb6a8ccc3c10e4f739e80",
-      "download_count": 297,
+      "download_count": 298,
       "created_at": "2026-07-24T17:38:16Z",
       "updated_at": "2026-07-24T17:38:17Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.9/jjui-0.10.9-darwin-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5980368,
       "digest": "sha256:625732e25be958d21fc740b71b378524cd11b8b64bd705872b6dc5a77ea531e3",
-      "download_count": 2322,
+      "download_count": 2331,
       "created_at": "2026-07-24T17:38:23Z",
       "updated_at": "2026-07-24T17:38:23Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.9/jjui-0.10.9-linux-amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6086127,
       "digest": "sha256:7dfb95f1c8379dade008f84829868f076825f421a1b539f33325883147e2ea64",
-      "download_count": 505,
+      "download_count": 507,
       "created_at": "2026-07-24T17:38:19Z",
       "updated_at": "2026-07-24T17:38:19Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.9/jjui-0.10.9-windows-amd64.zip"
