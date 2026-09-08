@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5980368,
       "digest": "sha256:625732e25be958d21fc740b71b378524cd11b8b64bd705872b6dc5a77ea531e3",
-      "download_count": 2314,
+      "download_count": 2322,
       "created_at": "2026-07-24T17:38:23Z",
       "updated_at": "2026-07-24T17:38:23Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.9/jjui-0.10.9-linux-amd64.zip"
