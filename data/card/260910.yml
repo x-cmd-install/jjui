@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.10"
   latestRelease: "v0.10.10"
   latestPrerelease: "v0.8.9"
-  collectedAt: 2026-09-10T20:17:03Z
+  collectedAt: 2026-09-10T23:34:33Z
 timeline:
   created: 2024-09-08
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2025-06-11
 popularity:
-  star: 2146
+  star: 2147
   watcher: 9
   fork: 117
   release: 48
@@ -87,7 +87,7 @@ total:
   commit: 1351
 ---
 path: /home/runner/.x-repo/github.com/idursun/jjui
-collectedAt: 2026-09-10T20:17:05Z
+collectedAt: 2026-09-10T23:34:35Z
 loc:
   Go:
     code: 45754
