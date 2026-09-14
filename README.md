@@ -14,12 +14,12 @@ x install jjui
 
 ## Code insight
 
-Total: **47,094** lines of code across **292** files in the top 5 languages.
+Total: **47,151** lines of code across **292** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 46,227 | 1,255 | 6,763 | 274 |
-| Toml | 525 | 47 | 50 | 3 |
+| Go | 46,235 | 1,255 | 6,763 | 274 |
+| Toml | 574 | 47 | 51 | 3 |
 | Nix | 188 | 3 | 21 | 11 |
 | Yaml | 86 | 0 | 11 | 3 |
 | Dockerfile | 49 | 5 | 8 | 1 |
@@ -38,22 +38,22 @@ Total: **47,094** lines of code across **292** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,154 · **Forks**: 117 · **Open issues**: 371 · **Contributors**: 51
+- **Stars**: 2,155 · **Forks**: 118 · **Open issues**: 371 · **Contributors**: 51
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 263 · **Open PRs**: 3 · **Closed issues**: 335 · **Open issues**: 36 · **Commits**: 1363
+- **Releases**: 48 · **Merged PRs**: 263 · **Open PRs**: 4 · **Closed issues**: 336 · **Open issues**: 35 · **Commits**: 1365
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 7 | 1 | 5 | 4 | 27 |
-| last60d | 2026-07-15 | 2 | 13 | 2 | 10 | 7 | 40 |
-| 90d | 2026-06-15 | 4 | 16 | 2 | 13 | 12 | 62 |
-| last180d | 2026-03-17 | 9 | 45 | 3 | 53 | 20 | 169 |
-| 360d | 2025-09-18 | 20 | 178 | 3 | 167 | 29 | 471 |
-| last720d | 2024-09-23 | 48 | 263 | 3 | 335 | 36 | 1293 |
+| 30d | 2026-08-15 | 1 | 7 | 2 | 5 | 4 | 29 |
+| last60d | 2026-07-16 | 2 | 13 | 3 | 9 | 7 | 42 |
+| 90d | 2026-06-16 | 4 | 16 | 3 | 13 | 12 | 64 |
+| last180d | 2026-03-18 | 8 | 43 | 4 | 52 | 19 | 171 |
+| 360d | 2025-09-19 | 20 | 178 | 4 | 167 | 28 | 473 |
+| last720d | 2024-09-24 | 48 | 263 | 4 | 336 | 35 | 1286 |
 
 ## Release assets
 
@@ -66,16 +66,6 @@ Total: **47,094** lines of code across **292** files in the top 5 languages.
 | [jjui-0.10.10-windows-amd64.zip](https://github.com/idursun/jjui/releases/download/v0.10.10/jjui-0.10.10-windows-amd64.zip) | 8.3 MiB | `native/win/x64` |
 | [jjui-0.10.10-windows-arm64.zip](https://github.com/idursun/jjui/releases/download/v0.10.10/jjui-0.10.10-windows-arm64.zip) | 7.6 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **24** distros on [repology.org](https://repology.org/project/jjui). **9** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.10.10` | ✅ latest |
-| Nix unstable | `0.10.9` | ⚠️ outdated |
-| Void | `0.9.12` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jjui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:45:04Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:50:01Z._
