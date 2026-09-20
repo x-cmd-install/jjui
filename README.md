@@ -4,7 +4,7 @@
 
 jjui is a TUI designed for interacting with the Jujutsu version control system.
 
-![jjui](https://repo.x-cmd.io/jjui.svg)
+[![x-cmd/install — jjui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jjui.svg)](https://x-cmd.com/install/jjui)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **48,128** lines of code across **297** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,169 · **Forks**: 118 · **Open issues**: 374 · **Contributors**: 53
+- **Stars**: 2,173 · **Forks**: 118 · **Open issues**: 374 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 266 · **Open PRs**: 3 · **Closed issues**: 338 · **Open issues**: 36 · **Commits**: 1371
+- **Releases**: 48 · **Merged PRs**: 266 · **Open PRs**: 3 · **Closed issues**: 337 · **Open issues**: 37 · **Commits**: 1371
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 10 | 1 | 5 | 6 | 35 |
-| last60d | 2026-07-20 | 2 | 15 | 2 | 10 | 7 | 48 |
-| 90d | 2026-06-20 | 4 | 18 | 2 | 14 | 13 | 70 |
-| last180d | 2026-03-22 | 8 | 43 | 3 | 53 | 20 | 177 |
-| 360d | 2025-09-23 | 20 | 180 | 3 | 166 | 28 | 479 |
-| last720d | 2024-09-28 | 48 | 266 | 3 | 338 | 36 | 1252 |
+| 30d | 2026-08-21 | 1 | 9 | 1 | 4 | 6 | 29 |
+| last60d | 2026-07-22 | 2 | 13 | 2 | 8 | 7 | 38 |
+| 90d | 2026-06-22 | 4 | 18 | 2 | 13 | 13 | 65 |
+| last180d | 2026-03-24 | 8 | 42 | 3 | 50 | 21 | 174 |
+| 360d | 2025-09-25 | 20 | 180 | 3 | 162 | 29 | 477 |
+| last720d | 2024-09-30 | 48 | 266 | 3 | 337 | 37 | 1249 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:37:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:50:27Z._

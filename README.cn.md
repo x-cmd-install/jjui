@@ -4,7 +4,7 @@
 
 jjui is a TUI designed for interacting with the Jujutsu version control system.
 
-![jjui](https://repo.x-cmd.io/jjui.svg?lang=zh)
+[![x-cmd/install — jjui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jjui.svg?lang=zh)](https://x-cmd.com/install/jjui)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install jjui
 
 ## 流行度
 
-- **Star**: 2,169 · **Fork**: 118 · **开放 issue**: 374 · **贡献者**: 53
+- **Star**: 2,173 · **Fork**: 118 · **开放 issue**: 374 · **贡献者**: 53
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 266 · **开放 PR**: 3 · **已关闭 issue**: 338 · **开放 issue**: 36 · **提交数**: 1371
+- **发布数**: 48 · **已合并 PR**: 266 · **开放 PR**: 3 · **已关闭 issue**: 337 · **开放 issue**: 37 · **提交数**: 1371
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 10 | 1 | 5 | 6 | 35 |
-| last60d | 2026-07-20 | 2 | 15 | 2 | 10 | 7 | 48 |
-| 90d | 2026-06-20 | 4 | 18 | 2 | 14 | 13 | 70 |
-| last180d | 2026-03-22 | 8 | 43 | 3 | 53 | 20 | 177 |
-| 360d | 2025-09-23 | 20 | 180 | 3 | 166 | 28 | 479 |
-| last720d | 2024-09-28 | 48 | 266 | 3 | 338 | 36 | 1252 |
+| 30d | 2026-08-21 | 1 | 9 | 1 | 4 | 6 | 29 |
+| last60d | 2026-07-22 | 2 | 13 | 2 | 8 | 7 | 38 |
+| 90d | 2026-06-22 | 4 | 18 | 2 | 13 | 13 | 65 |
+| last180d | 2026-03-24 | 8 | 42 | 3 | 50 | 21 | 174 |
+| 360d | 2025-09-25 | 20 | 180 | 3 | 162 | 29 | 477 |
+| last720d | 2024-09-30 | 48 | 266 | 3 | 337 | 37 | 1249 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ jjui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:37:45Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:50:27Z._
