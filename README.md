@@ -4,7 +4,7 @@
 
 jjui is a TUI designed for interacting with the Jujutsu version control system.
 
-[![x-cmd/install — jjui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jjui.svg)](https://x-cmd.com/install/jjui)
+[![x-cmd/install — jjui Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jjui.svg)](https://x-cmd.com/install/jjui)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **48,968** lines of code across **304** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 9 | 1 | 4 | 6 | 38 |
-| last60d | 2026-07-24 | 3 | 13 | 2 | 8 | 7 | 47 |
-| 90d | 2026-06-24 | 5 | 18 | 2 | 13 | 13 | 74 |
-| last180d | 2026-03-26 | 9 | 41 | 3 | 49 | 21 | 183 |
-| 360d | 2025-09-27 | 21 | 179 | 3 | 161 | 29 | 486 |
-| last720d | 2024-10-02 | 49 | 266 | 3 | 337 | 37 | 1253 |
+| 30d | 2026-08-24 | 2 | 9 | 1 | 4 | 6 | 38 |
+| last60d | 2026-07-25 | 2 | 13 | 2 | 8 | 7 | 47 |
+| 90d | 2026-06-25 | 5 | 17 | 2 | 12 | 13 | 74 |
+| last180d | 2026-03-27 | 9 | 41 | 3 | 49 | 20 | 183 |
+| 360d | 2025-09-28 | 21 | 179 | 3 | 161 | 29 | 486 |
+| last720d | 2024-10-03 | 49 | 266 | 3 | 337 | 37 | 1253 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:48:14Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:48:01Z._
