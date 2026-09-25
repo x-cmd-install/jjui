@@ -14,12 +14,12 @@ x install jjui
 
 ## Code insight
 
-Total: **48,968** lines of code across **304** files in the top 5 languages.
+Total: **50,156** lines of code across **307** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 48,036 | 1,345 | 6,910 | 286 |
-| Toml | 587 | 48 | 52 | 3 |
+| Go | 49,224 | 1,352 | 6,933 | 289 |
+| Toml | 587 | 49 | 52 | 3 |
 | Nix | 188 | 3 | 21 | 11 |
 | Yaml | 88 | 0 | 12 | 3 |
 | Dockerfile | 50 | 7 | 9 | 1 |
@@ -33,27 +33,27 @@ Total: **48,968** lines of code across **304** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.11` (2026-09-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-24
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,177 · **Forks**: 118 · **Open issues**: 374 · **Contributors**: 53
+- **Stars**: 2,180 · **Forks**: 118 · **Open issues**: 374 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 266 · **Open PRs**: 3 · **Closed issues**: 338 · **Open issues**: 36 · **Commits**: 1380
+- **Releases**: 49 · **Merged PRs**: 267 · **Open PRs**: 3 · **Closed issues**: 338 · **Open issues**: 36 · **Commits**: 1382
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 2 | 8 | 1 | 4 | 4 | 38 |
-| last60d | 2026-07-26 | 2 | 13 | 2 | 8 | 7 | 47 |
-| 90d | 2026-06-26 | 5 | 17 | 2 | 13 | 12 | 74 |
-| last180d | 2026-03-28 | 9 | 41 | 3 | 50 | 19 | 183 |
-| 360d | 2025-09-29 | 21 | 179 | 3 | 162 | 28 | 486 |
-| last720d | 2024-10-04 | 49 | 266 | 3 | 338 | 36 | 1253 |
+| 30d | 2026-08-26 | 2 | 8 | 1 | 4 | 4 | 0 |
+| last60d | 2026-07-27 | 2 | 13 | 2 | 8 | 7 | 0 |
+| 90d | 2026-06-27 | 5 | 17 | 2 | 13 | 12 | 0 |
+| last180d | 2026-03-29 | 9 | 42 | 3 | 50 | 19 | 0 |
+| 360d | 2025-09-30 | 21 | 180 | 3 | 162 | 28 | 0 |
+| last720d | 2024-10-05 | 49 | 267 | 3 | 338 | 36 | 1253 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:39:16Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:49:46Z._
