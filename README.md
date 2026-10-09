@@ -38,22 +38,22 @@ Total: **50,587** lines of code across **313** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,196 · **Forks**: 119 · **Open issues**: 377 · **Contributors**: 54
+- **Stars**: 2,197 · **Forks**: 119 · **Open issues**: 378 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 269 · **Open PRs**: 3 · **Closed issues**: 338 · **Open issues**: 39 · **Commits**: 1402
+- **Releases**: 49 · **Merged PRs**: 269 · **Open PRs**: 4 · **Closed issues**: 338 · **Open issues**: 40 · **Commits**: 1402
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 7 | 1 | 3 | 6 | 53 |
-| last60d | 2026-08-09 | 2 | 13 | 1 | 7 | 9 | 68 |
-| 90d | 2026-07-10 | 3 | 18 | 2 | 11 | 12 | 88 |
-| last180d | 2026-04-11 | 9 | 43 | 3 | 48 | 22 | 179 |
-| 360d | 2025-10-13 | 20 | 176 | 3 | 155 | 31 | 484 |
-| last720d | 2024-10-18 | 49 | 269 | 3 | 338 | 39 | 1266 |
+| 30d | 2026-09-09 | 1 | 7 | 2 | 2 | 7 | 53 |
+| last60d | 2026-08-10 | 2 | 13 | 2 | 7 | 10 | 68 |
+| 90d | 2026-07-11 | 3 | 18 | 3 | 11 | 13 | 88 |
+| last180d | 2026-04-12 | 9 | 42 | 4 | 48 | 23 | 179 |
+| 360d | 2025-10-14 | 20 | 176 | 4 | 154 | 32 | 484 |
+| last720d | 2024-10-19 | 49 | 269 | 4 | 338 | 40 | 1266 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:54:57Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:01:29Z._
