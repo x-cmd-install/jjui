@@ -14,11 +14,11 @@ x install jjui
 
 ## Code insight
 
-Total: **50,587** lines of code across **313** files in the top 5 languages.
+Total: **50,718** lines of code across **315** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 49,658 | 1,386 | 7,006 | 295 |
+| Go | 49,789 | 1,390 | 7,019 | 297 |
 | Toml | 584 | 49 | 52 | 3 |
 | Nix | 188 | 3 | 21 | 11 |
 | Yaml | 88 | 0 | 12 | 3 |
@@ -33,27 +33,27 @@ Total: **50,587** lines of code across **313** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.11` (2026-09-21)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-14
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,200 · **Forks**: 120 · **Open issues**: 380 · **Contributors**: 54
+- **Stars**: 2,200 · **Forks**: 121 · **Open issues**: 380 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 269 · **Open PRs**: 6 · **Closed issues**: 338 · **Open issues**: 42 · **Commits**: 1402
+- **Releases**: 49 · **Merged PRs**: 272 · **Open PRs**: 3 · **Closed issues**: 340 · **Open issues**: 40 · **Commits**: 1405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 2 | 3 | 0 | 8 | 31 |
-| last60d | 2026-08-15 | 2 | 12 | 4 | 6 | 12 | 66 |
-| 90d | 2026-07-16 | 3 | 18 | 5 | 10 | 15 | 84 |
-| last180d | 2026-04-17 | 9 | 38 | 5 | 44 | 23 | 172 |
-| 360d | 2025-10-19 | 20 | 176 | 6 | 148 | 34 | 476 |
-| last720d | 2024-10-24 | 49 | 269 | 6 | 337 | 42 | 1266 |
+| 30d | 2026-09-15 | 1 | 5 | 0 | 2 | 4 | 0 |
+| last60d | 2026-08-16 | 2 | 15 | 1 | 8 | 10 | 0 |
+| 90d | 2026-07-17 | 3 | 21 | 2 | 12 | 13 | 0 |
+| last180d | 2026-04-18 | 8 | 40 | 2 | 46 | 21 | 0 |
+| 360d | 2025-10-20 | 20 | 179 | 3 | 148 | 32 | 0 |
+| last720d | 2024-10-25 | 49 | 272 | 3 | 339 | 40 | 1269 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:51:07Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:33:47Z._
