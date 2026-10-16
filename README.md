@@ -48,12 +48,12 @@ Total: **50,718** lines of code across **315** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 5 | 0 | 2 | 4 | 0 |
-| last60d | 2026-08-16 | 2 | 15 | 1 | 8 | 10 | 0 |
-| 90d | 2026-07-17 | 3 | 21 | 2 | 12 | 13 | 0 |
-| last180d | 2026-04-18 | 8 | 40 | 2 | 46 | 21 | 0 |
-| 360d | 2025-10-20 | 20 | 179 | 3 | 148 | 32 | 0 |
-| last720d | 2024-10-25 | 49 | 272 | 3 | 339 | 40 | 1269 |
+| 30d | 2026-09-16 | 1 | 5 | 0 | 2 | 4 | 0 |
+| last60d | 2026-08-17 | 2 | 15 | 1 | 8 | 10 | 0 |
+| 90d | 2026-07-18 | 3 | 21 | 2 | 12 | 11 | 0 |
+| last180d | 2026-04-19 | 8 | 40 | 2 | 46 | 21 | 0 |
+| 360d | 2025-10-21 | 19 | 179 | 3 | 148 | 32 | 0 |
+| last720d | 2024-10-26 | 49 | 272 | 3 | 339 | 40 | 1269 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:33:47Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:24:33Z._
