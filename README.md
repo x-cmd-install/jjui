@@ -32,39 +32,39 @@ Total: **50,718** lines of code across **315** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.11` (2026-09-21)
-- **Last commit**: 2026-10-14
+- **Latest**: `v0.10.12` (2026-10-17)
+- **Last commit**: 2026-10-17
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,200 · **Forks**: 121 · **Open issues**: 380 · **Contributors**: 54
+- **Stars**: 2,201 · **Forks**: 121 · **Open issues**: 382 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 272 · **Open PRs**: 3 · **Closed issues**: 340 · **Open issues**: 40 · **Commits**: 1405
+- **Releases**: 50 · **Merged PRs**: 272 · **Open PRs**: 3 · **Closed issues**: 340 · **Open issues**: 42 · **Commits**: 1407
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 5 | 0 | 2 | 4 | 0 |
-| last60d | 2026-08-17 | 2 | 15 | 1 | 8 | 10 | 0 |
-| 90d | 2026-07-18 | 3 | 21 | 2 | 12 | 11 | 0 |
-| last180d | 2026-04-19 | 8 | 40 | 2 | 46 | 21 | 0 |
-| 360d | 2025-10-21 | 19 | 179 | 3 | 148 | 32 | 0 |
-| last720d | 2024-10-26 | 49 | 272 | 3 | 339 | 40 | 1269 |
+| 30d | 2026-09-17 | 2 | 5 | 0 | 2 | 6 | 0 |
+| last60d | 2026-08-18 | 3 | 15 | 1 | 7 | 12 | 0 |
+| 90d | 2026-07-19 | 4 | 20 | 2 | 12 | 13 | 0 |
+| last180d | 2026-04-20 | 9 | 37 | 2 | 46 | 23 | 0 |
+| 360d | 2025-10-22 | 20 | 178 | 3 | 148 | 34 | 0 |
+| last720d | 2024-10-27 | 50 | 272 | 3 | 339 | 42 | 1271 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [jjui-0.10.11-darwin-amd64.zip](https://github.com/idursun/jjui/releases/download/v0.10.11/jjui-0.10.11-darwin-amd64.zip) | 8.2 MiB | `native/darwin/x64` |
-| [jjui-0.10.11-darwin-arm64.zip](https://github.com/idursun/jjui/releases/download/v0.10.11/jjui-0.10.11-darwin-arm64.zip) | 7.7 MiB | `native/darwin/arm64` |
-| [jjui-0.10.11-linux-amd64.zip](https://github.com/idursun/jjui/releases/download/v0.10.11/jjui-0.10.11-linux-amd64.zip) | 8.2 MiB | `native/linux/x64` |
-| [jjui-0.10.11-linux-arm64.zip](https://github.com/idursun/jjui/releases/download/v0.10.11/jjui-0.10.11-linux-arm64.zip) | 7.5 MiB | `native/linux/arm64` |
-| [jjui-0.10.11-windows-amd64.zip](https://github.com/idursun/jjui/releases/download/v0.10.11/jjui-0.10.11-windows-amd64.zip) | 8.3 MiB | `native/win/x64` |
-| [jjui-0.10.11-windows-arm64.zip](https://github.com/idursun/jjui/releases/download/v0.10.11/jjui-0.10.11-windows-arm64.zip) | 7.6 MiB | `native/win/arm64` |
+| [jjui-0.10.12-darwin-amd64.zip](https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-darwin-amd64.zip) | 8.4 MiB | `native/darwin/x64` |
+| [jjui-0.10.12-darwin-arm64.zip](https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-darwin-arm64.zip) | 7.9 MiB | `native/darwin/arm64` |
+| [jjui-0.10.12-linux-amd64.zip](https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-linux-amd64.zip) | 8.4 MiB | `native/linux/x64` |
+| [jjui-0.10.12-linux-arm64.zip](https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-linux-arm64.zip) | 7.7 MiB | `native/linux/arm64` |
+| [jjui-0.10.12-windows-amd64.zip](https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-windows-amd64.zip) | 8.5 MiB | `native/win/x64` |
+| [jjui-0.10.12-windows-arm64.zip](https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-windows-arm64.zip) | 7.8 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:24:33Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:17:34Z._
