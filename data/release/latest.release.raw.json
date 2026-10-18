@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8852244,
       "digest": "sha256:af16621cd5f71fb870958993cad2adc39388c43a23e9e843d776be44140e562b",
-      "download_count": 0,
+      "download_count": 7,
       "created_at": "2026-10-17T00:33:28Z",
       "updated_at": "2026-10-17T00:33:29Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-darwin-amd64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8320967,
       "digest": "sha256:3ab738dee30a0d2359e398b5b184014fb9497db71dfabdf0ccd40ab4a1d6d96a",
-      "download_count": 1,
+      "download_count": 12,
       "created_at": "2026-10-17T00:33:27Z",
       "updated_at": "2026-10-17T00:33:27Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-darwin-arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8806427,
       "digest": "sha256:f3604ade57557dd66e928e0d2b209817a5dda2d83a4a11ac9577d37c20b63009",
-      "download_count": 9,
+      "download_count": 104,
       "created_at": "2026-10-17T00:33:31Z",
       "updated_at": "2026-10-17T00:33:32Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-linux-amd64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8053572,
       "digest": "sha256:b8f21085f2b0a688bc5ecc4f578632a5326dd29d4ffb4844851297953599557d",
-      "download_count": 0,
+      "download_count": 10,
       "created_at": "2026-10-17T00:33:26Z",
       "updated_at": "2026-10-17T00:33:27Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-linux-arm64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8910648,
       "digest": "sha256:c782a69010f5532d26fa29799a7c6b7dfe22f225bc2735c642d21814942f1bb4",
-      "download_count": 19,
+      "download_count": 56,
       "created_at": "2026-10-17T00:33:24Z",
       "updated_at": "2026-10-17T00:33:25Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-windows-amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8150924,
       "digest": "sha256:fc9686cf36c76d6845acec5ead21edfc487aa9afdb4e9a9279c325593416eaea",
-      "download_count": 9,
+      "download_count": 16,
       "created_at": "2026-10-17T00:33:21Z",
       "updated_at": "2026-10-17T00:33:21Z",
       "browser_download_url": "https://github.com/idursun/jjui/releases/download/v0.10.12/jjui-0.10.12-windows-arm64.zip"
@@ -258,13 +258,13 @@
   "body": "Mostly a bugfix release, with fixes for the bookmark pane and view layering, live theme reloading, and groundwork for context-aware key bindings.\r\n\r\n## Improvements\r\n\r\n- **Themes:** Sending `SIGUSR1` to jjui reloads the active theme without a restart, which is handy while editing a theme file. If the reloaded theme turns on background blending, jjui queries the terminal palette again so blended backgrounds come out right. (#762)\r\n- **Bindings:** Actions and bindings can now have a `when` condition based on the current state of the app. For example, annotate (`shift+c`) is only available when `revisions.has_revision && !revisions.is_root && !revisions.is_empty`, and expanded help strikes it through on the root or an empty revision. For now it mostly keeps help honest about what applies to the current selection. Later, it will let jjui show the right binding for the situation, such as separate open and close actions instead of one generic toggle.\r\n\r\n## Bug Fixes\r\n\r\n- **Bookmarks:** Bookmark names containing characters such as `#` are now quoted correctly for `git push` and `git fetch`, from both the Git menu and the bookmark pane. (#763)\r\n- **Bookmark pane:** `ctrl+p` and `ctrl+n` now move up and down in the bookmark pane. (#758)\r\n- **Bookmark pane:** Styling now follows the bookmark theme. (#757)\r\n- **Bookmark pane:** The Git menu now stays above the bookmark pane. (#754)\r\n- **Preview:** Preview hotkeys no longer reach a preview hidden behind a diff or annotation view. Previously, `ctrl+n` in a diff scrolled the hidden preview.\r\n- **Dialogs:** Closing a dialog opened over a diff or annotation view now closes the dialog first, not the view underneath it.\r\n- **Mouse:** Clicks on a list item that is partly scrolled out of view now reach the item.\r\n- **Askpass:** Askpass is now skipped on Windows instead of failing. (#755)\r\n- **Help:** Expanded help no longer shows the revset scope when it isn't active.\r\n\r\n## What's Changed\r\n* fix(bookmarkpane): keep git menu above bookmark pane by @baggiiiie in https://github.com/idursun/jjui/pull/754\r\n* fix(bookmarkpane): align styling with bookmark theme by @baggiiiie in https://github.com/idursun/jjui/pull/757\r\n* fix(bookmarkpane): support readline navigation keys by @baggiiiie in https://github.com/idursun/jjui/pull/758\r\n* fix: quote bookmark names for git push and fetch by @baggiiiie in https://github.com/idursun/jjui/pull/763\r\n* feat: reload active theme on SIGUSR1 by @baggiiiie in https://github.com/idursun/jjui/pull/762\r\n\r\n\r\n**Full Changelog**: https://github.com/idursun/jjui/compare/v0.10.11...v0.10.12",
   "reactions": {
     "url": "https://api.github.com/repos/idursun/jjui/releases/415489806/reactions",
-    "total_count": 1,
+    "total_count": 3,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 2,
     "confused": 0,
-    "heart": 0,
+    "heart": 1,
     "rocket": 0,
     "eyes": 0
   },
