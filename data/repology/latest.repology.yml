@@ -63,6 +63,20 @@
   origversion: null
   status: newest
   summary: TUI for interacting with the Jujutsu version control system
+- repo: terra_rawhide
+  srcname: jjui
+  binname: jjui-debugsource
+  visiblename: jjui-debugsource
+  version: 0.10.12
+  origversion: 0.10.12-1.fcrawhide
+  status: newest
+  summary: Debug sources for package jjui
+  maintainers:
+    - maxim@ammix.dev
+  licenses:
+    - MIT AND BSD-3-Clause
+  categories:
+    - Development/Debug
 - repo: macports
   srcname: devel/jjui
   binname: jjui
@@ -163,7 +177,7 @@
   binname: jjui
   visiblename: devel/jjui
   version: 0.10.10
-  origversion: null
+  origversion: 0.10.10nb1
   status: outdated
   summary: Text user interface for jj
   maintainers:
@@ -241,20 +255,6 @@
   origversion: 0.10.12-1.fcrawhide
   status: newest
   summary: Debug information for package jjui
-  maintainers:
-    - maxim@ammix.dev
-  licenses:
-    - MIT AND BSD-3-Clause
-  categories:
-    - Development/Debug
-- repo: terra_rawhide
-  srcname: jjui
-  binname: jjui-debugsource
-  visiblename: jjui-debugsource
-  version: 0.10.12
-  origversion: 0.10.12-1.fcrawhide
-  status: newest
-  summary: Debug sources for package jjui
   maintainers:
     - maxim@ammix.dev
   licenses:
