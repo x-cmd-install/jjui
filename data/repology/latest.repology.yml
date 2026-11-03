@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: extras
+  binname: jjui
+  visiblename: jjui
+  version: 0.10.12
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: aur
   srcname: jjui
   binname: jjui
@@ -182,15 +191,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - devel
-- repo: scoop
-  subrepo: extras
-  binname: jjui
-  visiblename: jjui
-  version: 0.10.12
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: terra_rawhide
   srcname: jjui
   binname: jjui
