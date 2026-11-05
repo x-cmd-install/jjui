@@ -14,11 +14,11 @@ x install jjui
 
 ## Code insight
 
-Total: **51,023** lines of code across **321** files in the top 5 languages.
+Total: **51,254** lines of code across **323** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 50,094 | 1,418 | 7,102 | 303 |
+| Go | 50,325 | 1,442 | 7,138 | 305 |
 | Toml | 584 | 48 | 52 | 3 |
 | Nix | 188 | 3 | 21 | 11 |
 | Yaml | 88 | 0 | 12 | 3 |
@@ -33,27 +33,27 @@ Total: **51,023** lines of code across **321** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.12` (2026-10-17)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 2,219 · **Forks**: 122 · **Open issues**: 385 · **Contributors**: 54
+- **Stars**: 2,219 · **Forks**: 121 · **Open issues**: 382 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 273 · **Open PRs**: 9 · **Closed issues**: 343 · **Open issues**: 42 · **Commits**: 1423
+- **Releases**: 50 · **Merged PRs**: 272 · **Open PRs**: 9 · **Closed issues**: 343 · **Open issues**: 39 · **Commits**: 1425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 4 | 6 | 3 | 5 | 21 |
-| last60d | 2026-09-05 | 3 | 11 | 7 | 9 | 9 | 74 |
-| 90d | 2026-08-06 | 3 | 17 | 7 | 12 | 13 | 89 |
-| last180d | 2026-05-08 | 8 | 30 | 8 | 39 | 21 | 162 |
-| 360d | 2025-11-09 | 20 | 174 | 9 | 140 | 34 | 488 |
-| last720d | 2024-11-14 | 50 | 273 | 9 | 342 | 42 | 1287 |
+| 30d | 2026-10-06 | 1 | 4 | 6 | 5 | 3 | 23 |
+| last60d | 2026-09-06 | 3 | 11 | 7 | 10 | 7 | 76 |
+| 90d | 2026-08-07 | 3 | 17 | 7 | 13 | 10 | 91 |
+| last180d | 2026-05-09 | 8 | 30 | 8 | 39 | 19 | 164 |
+| 360d | 2025-11-10 | 20 | 174 | 9 | 140 | 31 | 489 |
+| last720d | 2024-11-15 | 50 | 272 | 9 | 342 | 39 | 1289 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:06:25Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:35:14Z._
