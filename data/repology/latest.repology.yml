@@ -10,19 +10,6 @@
     - alerque@aur
   licenses:
     - MIT
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: jjui
-  binname: jjui
-  visiblename: jjui
-  version: 0.9.12
-  origversion: 0.9.12_2
-  status: outdated
-  summary: TUI designed for interacting with jujutsu version control
-  maintainers:
-    - c.dillard@pm.me
-  licenses:
-    - MIT
 - repo: aur
   srcname: jjui-bin
   binname: jjui-bin
@@ -76,6 +63,20 @@
   origversion: null
   status: newest
   summary: TUI for interacting with the Jujutsu version control system
+- repo: terra_rawhide
+  srcname: jjui
+  binname: jjui-debugsource
+  visiblename: jjui-debugsource
+  version: 0.10.12
+  origversion: 0.10.12-1.fcrawhide
+  status: newest
+  summary: Debug sources for package jjui
+  maintainers:
+    - maxim@ammix.dev
+  licenses:
+    - MIT AND BSD-3-Clause
+  categories:
+    - Development/Debug
 - repo: macports
   srcname: devel/jjui
   binname: jjui
@@ -263,17 +264,16 @@
     - MIT AND BSD-3-Clause
   categories:
     - Development/Debug
-- repo: terra_rawhide
+- repo: void_x86_64
+  subrepo: x86_64
   srcname: jjui
-  binname: jjui-debugsource
-  visiblename: jjui-debugsource
-  version: 0.10.12
-  origversion: 0.10.12-1.fcrawhide
-  status: newest
-  summary: Debug sources for package jjui
+  binname: jjui
+  visiblename: jjui
+  version: 0.9.12
+  origversion: 0.9.12_2
+  status: outdated
+  summary: TUI designed for interacting with jujutsu version control
   maintainers:
-    - maxim@ammix.dev
+    - c.dillard@pm.me
   licenses:
-    - MIT AND BSD-3-Clause
-  categories:
-    - Development/Debug
+    - MIT
