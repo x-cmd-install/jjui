@@ -1,3 +1,15 @@
+- repo: pkgsrc_2026_2
+  srcname: devel/jjui
+  binname: jjui
+  visiblename: devel/jjui
+  version: 0.10.6
+  origversion: 0.10.6nb2
+  status: outdated
+  summary: Text user interface for jj
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - devel
 - repo: aur
   srcname: jjui
   binname: jjui
@@ -49,7 +61,7 @@
   binname: jjui
   visiblename: devel/jjui
   version: 0.10.9
-  origversion: 0.10.9_4
+  origversion: 0.10.9_5
   status: outdated
   summary: Terminal user interface for Jujutsu
   maintainers:
@@ -135,18 +147,6 @@
     - tb@openbsd.org
   categories:
     - devel
-- repo: pkgsrc_2026_2
-  srcname: devel/jjui
-  binname: jjui
-  visiblename: devel/jjui
-  version: 0.10.6
-  origversion: 0.10.6nb2
-  status: outdated
-  summary: Text user interface for jj
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: pkgsrc_2026_3
   srcname: devel/jjui
   binname: jjui
@@ -164,7 +164,7 @@
   binname: jjui
   visiblename: devel/jjui
   version: 0.10.12
-  origversion: 0.10.12nb1
+  origversion: 0.10.12nb2
   status: newest
   summary: Text user interface for jj
   maintainers:
