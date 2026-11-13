@@ -1,22 +1,10 @@
-- repo: pkgsrc_2026_2
-  srcname: devel/jjui
-  binname: jjui
-  visiblename: devel/jjui
-  version: 0.10.6
-  origversion: 0.10.6nb2
-  status: outdated
-  summary: Text user interface for jj
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - devel
 - repo: aur
   srcname: jjui
   binname: jjui
   visiblename: jjui
   version: 0.10.12
   origversion: 0.10.12-1
-  status: newest
+  status: outdated
   summary: TUI designed for interacting with the Jujutsu version control system
   maintainers:
     - alerque@aur
@@ -26,8 +14,8 @@
   srcname: jjui-bin
   binname: jjui-bin
   visiblename: jjui-bin
-  version: 0.10.12
-  origversion: 0.10.12-1
+  version: 0.10.13
+  origversion: 0.10.13-1
   status: newest
   summary: Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
   maintainers:
@@ -41,7 +29,7 @@
   visiblename: jjui
   version: 0.10.12
   origversion: 0.10.12-r1
-  status: newest
+  status: outdated
   summary: TUI for Jujutsu VCS framework
   licenses:
     - MIT
@@ -52,7 +40,7 @@
   visiblename: jjui-doc
   version: 0.10.12
   origversion: 0.10.12-r1
-  status: newest
+  status: outdated
   summary: TUI for Jujutsu VCS framework (documentation)
   licenses:
     - MIT
@@ -71,7 +59,7 @@
 - repo: homebrew
   srcname: jjui
   visiblename: jjui
-  version: 0.10.12
+  version: 0.10.13
   origversion: null
   status: newest
   summary: TUI for interacting with the Jujutsu version control system
@@ -81,7 +69,7 @@
   visiblename: jjui
   version: 0.10.12
   origversion: null
-  status: newest
+  status: outdated
   summary: Jujutsu UI (jjui) is a Text User Interface (TUI) designed for interacting with the Jujutsu version control system.
   maintainers:
     - herbygillot@github
@@ -128,7 +116,7 @@
   visiblename: jjui
   version: 0.10.12
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI for Jujutsu VCS
   maintainers:
     - happy.plan4249@valkor.net
@@ -141,10 +129,22 @@
   visiblename: devel/jjui
   version: 0.10.12
   origversion: null
-  status: newest
+  status: outdated
   summary: terminal user interface for Jujutsu
   maintainers:
     - tb@openbsd.org
+  categories:
+    - devel
+- repo: pkgsrc_2026_2
+  srcname: devel/jjui
+  binname: jjui
+  visiblename: devel/jjui
+  version: 0.10.6
+  origversion: 0.10.6nb2
+  status: outdated
+  summary: Text user interface for jj
+  maintainers:
+    - pkgsrc-users@netbsd.org
   categories:
     - devel
 - repo: pkgsrc_2026_3
@@ -165,7 +165,7 @@
   visiblename: devel/jjui
   version: 0.10.12
   origversion: 0.10.12nb2
-  status: newest
+  status: outdated
   summary: Text user interface for jj
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -175,7 +175,7 @@
   subrepo: extras
   binname: jjui
   visiblename: jjui
-  version: 0.10.12
+  version: 0.10.13
   origversion: null
   status: newest
   licenses:
@@ -186,7 +186,7 @@
   visiblename: jjui
   version: 0.10.12
   origversion: 0.10.12-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Terminal user interface for Jujutsu
   maintainers:
     - maxim@ammix.dev
@@ -200,7 +200,7 @@
   visiblename: jjui
   version: 0.10.12
   origversion: 0.10.12-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Terminal user interface for Jujutsu
   maintainers:
     - maxim@ammix.dev
@@ -214,7 +214,7 @@
   visiblename: jjui-debuginfo
   version: 0.10.12
   origversion: 0.10.12-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package jjui
   maintainers:
     - maxim@ammix.dev
@@ -228,7 +228,7 @@
   visiblename: jjui-debuginfo
   version: 0.10.12
   origversion: 0.10.12-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package jjui
   maintainers:
     - maxim@ammix.dev
@@ -242,7 +242,7 @@
   visiblename: jjui-debugsource
   version: 0.10.12
   origversion: 0.10.12-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package jjui
   maintainers:
     - maxim@ammix.dev
@@ -256,7 +256,7 @@
   visiblename: jjui-debugsource
   version: 0.10.12
   origversion: 0.10.12-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package jjui
   maintainers:
     - maxim@ammix.dev
