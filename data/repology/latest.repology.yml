@@ -2,9 +2,9 @@
   srcname: jjui
   binname: jjui
   visiblename: jjui
-  version: 0.10.12
-  origversion: 0.10.12-1
-  status: outdated
+  version: 0.10.13
+  origversion: 0.10.13-1
+  status: newest
   summary: TUI designed for interacting with the Jujutsu version control system
   maintainers:
     - alerque@aur
@@ -127,9 +127,9 @@
   srcname: devel/jjui
   binname: jjui
   visiblename: devel/jjui
-  version: 0.10.12
+  version: 0.10.13
   origversion: null
-  status: outdated
+  status: newest
   summary: terminal user interface for Jujutsu
   maintainers:
     - tb@openbsd.org
