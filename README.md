@@ -38,7 +38,7 @@ Total: **51,254** lines of code across **323** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,233 · **Forks**: 122 · **Open issues**: 384 · **Contributors**: 54
+- **Stars**: 2,235 · **Forks**: 123 · **Open issues**: 384 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **51,254** lines of code across **323** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 2 | 7 | 3 | 4 | 21 |
-| last60d | 2026-09-14 | 3 | 7 | 7 | 7 | 7 | 55 |
-| 90d | 2026-08-15 | 4 | 17 | 8 | 13 | 11 | 91 |
-| last180d | 2026-05-17 | 8 | 30 | 9 | 32 | 19 | 156 |
-| 360d | 2025-11-18 | 21 | 171 | 10 | 139 | 31 | 487 |
-| last720d | 2024-11-23 | 51 | 273 | 10 | 343 | 40 | 1290 |
+| 30d | 2026-10-15 | 2 | 2 | 7 | 3 | 4 | 21 |
+| last60d | 2026-09-15 | 3 | 7 | 7 | 6 | 6 | 55 |
+| 90d | 2026-08-16 | 4 | 17 | 8 | 13 | 11 | 91 |
+| last180d | 2026-05-18 | 8 | 30 | 9 | 30 | 19 | 156 |
+| 360d | 2025-11-19 | 21 | 171 | 10 | 139 | 31 | 487 |
+| last720d | 2024-11-24 | 51 | 273 | 10 | 343 | 40 | 1290 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **51,254** lines of code across **323** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/jjui). **3** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/jjui). **5** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:36:24Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:22:14Z._
