@@ -163,9 +163,9 @@
   srcname: devel/jjui
   binname: jjui
   visiblename: devel/jjui
-  version: 0.10.12
-  origversion: 0.10.12nb2
-  status: outdated
+  version: 0.10.13
+  origversion: null
+  status: newest
   summary: Text user interface for jj
   maintainers:
     - pkgsrc-users@netbsd.org
