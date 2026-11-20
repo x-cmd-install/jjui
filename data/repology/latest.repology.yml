@@ -184,9 +184,9 @@
   srcname: jjui
   binname: jjui
   visiblename: jjui
-  version: 0.10.12
-  origversion: 0.10.12-1.fcrawhide
-  status: outdated
+  version: 0.10.13
+  origversion: 0.10.13-1.fcrawhide
+  status: newest
   summary: Terminal user interface for Jujutsu
   maintainers:
     - maxim@ammix.dev
@@ -198,9 +198,9 @@
   srcname: jjui
   binname: jjui
   visiblename: jjui
-  version: 0.10.12
-  origversion: 0.10.12-1.fcrawhide
-  status: outdated
+  version: 0.10.13
+  origversion: 0.10.13-1.fcrawhide
+  status: newest
   summary: Terminal user interface for Jujutsu
   maintainers:
     - maxim@ammix.dev
@@ -212,9 +212,9 @@
   srcname: jjui
   binname: jjui-debuginfo
   visiblename: jjui-debuginfo
-  version: 0.10.12
-  origversion: 0.10.12-1.fcrawhide
-  status: outdated
+  version: 0.10.13
+  origversion: 0.10.13-1.fcrawhide
+  status: newest
   summary: Debug information for package jjui
   maintainers:
     - maxim@ammix.dev
@@ -226,9 +226,9 @@
   srcname: jjui
   binname: jjui-debuginfo
   visiblename: jjui-debuginfo
-  version: 0.10.12
-  origversion: 0.10.12-1.fcrawhide
-  status: outdated
+  version: 0.10.13
+  origversion: 0.10.13-1.fcrawhide
+  status: newest
   summary: Debug information for package jjui
   maintainers:
     - maxim@ammix.dev
@@ -240,9 +240,9 @@
   srcname: jjui
   binname: jjui-debugsource
   visiblename: jjui-debugsource
-  version: 0.10.12
-  origversion: 0.10.12-1.fcrawhide
-  status: outdated
+  version: 0.10.13
+  origversion: 0.10.13-1.fcrawhide
+  status: newest
   summary: Debug sources for package jjui
   maintainers:
     - maxim@ammix.dev
@@ -254,9 +254,9 @@
   srcname: jjui
   binname: jjui-debugsource
   visiblename: jjui-debugsource
-  version: 0.10.12
-  origversion: 0.10.12-1.fcrawhide
-  status: outdated
+  version: 0.10.13
+  origversion: 0.10.13-1.fcrawhide
+  status: newest
   summary: Debug sources for package jjui
   maintainers:
     - maxim@ammix.dev
