@@ -38,22 +38,22 @@ Total: **51,276** lines of code across **323** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,243 · **Forks**: 123 · **Open issues**: 385 · **Contributors**: 55
+- **Stars**: 2,244 · **Forks**: 123 · **Open issues**: 386 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 274 · **Open PRs**: 9 · **Closed issues**: 345 · **Open issues**: 40 · **Commits**: 1428
+- **Releases**: 51 · **Merged PRs**: 274 · **Open PRs**: 9 · **Closed issues**: 345 · **Open issues**: 41 · **Commits**: 1428
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 1 | 3 | 3 | 1 | 3 | 18 |
-| last60d | 2026-09-20 | 3 | 8 | 7 | 7 | 6 | 48 |
-| 90d | 2026-08-21 | 4 | 17 | 8 | 12 | 11 | 91 |
-| last180d | 2026-05-23 | 7 | 31 | 9 | 30 | 19 | 152 |
-| 360d | 2025-11-24 | 20 | 166 | 9 | 135 | 31 | 471 |
-| last720d | 2024-11-29 | 51 | 273 | 9 | 344 | 40 | 1289 |
+| 30d | 2026-10-21 | 1 | 3 | 3 | 1 | 4 | 18 |
+| last60d | 2026-09-21 | 3 | 8 | 7 | 7 | 7 | 48 |
+| 90d | 2026-08-22 | 4 | 17 | 8 | 12 | 12 | 91 |
+| last180d | 2026-05-24 | 7 | 31 | 9 | 30 | 20 | 152 |
+| 360d | 2025-11-25 | 20 | 164 | 9 | 135 | 32 | 471 |
+| last720d | 2024-11-30 | 51 | 273 | 9 | 344 | 41 | 1289 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **51,276** lines of code across **323** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/jjui). **11** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/jjui). **17** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,4 +85,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:23:02Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:10:33Z._
