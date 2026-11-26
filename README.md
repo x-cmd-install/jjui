@@ -38,7 +38,7 @@ Total: **51,484** lines of code across **324** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,248 · **Forks**: 124 · **Open issues**: 389 · **Contributors**: 56
+- **Stars**: 2,249 · **Forks**: 124 · **Open issues**: 389 · **Contributors**: 56
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **51,484** lines of code across **324** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 4 | 2 | 3 | 5 | 22 |
-| last60d | 2026-09-26 | 2 | 10 | 6 | 9 | 8 | 33 |
-| 90d | 2026-08-27 | 4 | 17 | 6 | 14 | 11 | 88 |
-| last180d | 2026-05-29 | 7 | 33 | 7 | 32 | 20 | 155 |
-| 360d | 2025-11-30 | 20 | 155 | 7 | 133 | 31 | 444 |
-| last720d | 2024-12-05 | 51 | 275 | 7 | 347 | 41 | 1293 |
+| 30d | 2026-10-27 | 1 | 4 | 2 | 3 | 5 | 0 |
+| last60d | 2026-09-27 | 2 | 10 | 6 | 9 | 8 | 0 |
+| 90d | 2026-08-28 | 4 | 17 | 6 | 14 | 11 | 0 |
+| last180d | 2026-05-30 | 7 | 33 | 7 | 32 | 20 | 0 |
+| 360d | 2025-12-01 | 20 | 154 | 7 | 132 | 31 | 0 |
+| last720d | 2024-12-06 | 51 | 275 | 7 | 347 | 41 | 1293 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for jjui lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:26:39Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:05:45Z._
