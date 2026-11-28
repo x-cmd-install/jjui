@@ -2,12 +2,12 @@ about:
   description: "jjui is a TUI designed for interacting with the Jujutsu version control system."
   license: MIT
   homepage: https://idursun.github.io/jjui/
-  head: 30d6a68
+  head: b7049b6
   archived: false
   latestVersion: "v0.10.14"
   latestRelease: "v0.10.14"
   latestPrerelease: "v0.8.9"
-  collectedAt: 2026-11-27T08:23:35Z
+  collectedAt: 2026-11-28T07:38:12Z
 timeline:
   created: 2024-09-08
   lastCommit: 2026-11-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-26
   lastPrerelease: 2025-06-11
 popularity:
-  star: 2251
+  star: 2252
   watcher: 10
   fork: 124
   release: 52
@@ -23,81 +23,81 @@ popularity:
   pullRequest: 322
   issue: 389
 language:
-  Go: 1708358
-  Lua: 21024
+  Go: 1738696
+  Lua: 21634
   Nix: 4451
   Dockerfile: 2596
   Shell: 10
-totalBytes: 1736439
+totalBytes: 1767387
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 2
     mergedPR: 5
     openPR: 2
-    closedIssue: 4
-    openIssue: 4
-    commit: 0
+    closedIssue: 5
+    openIssue: 2
+    commit: 154
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 3
     mergedPR: 11
     openPR: 6
     closedIssue: 10
-    openIssue: 7
-    commit: 0
+    openIssue: 6
+    commit: 165
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 5
     mergedPR: 18
     openPR: 6
-    closedIssue: 15
-    openIssue: 10
-    commit: 0
+    closedIssue: 16
+    openIssue: 9
+    commit: 220
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 8
     mergedPR: 34
     openPR: 7
-    closedIssue: 32
-    openIssue: 19
-    commit: 0
+    closedIssue: 34
+    openIssue: 17
+    commit: 287
   last360d:
-    since: 2025-12-02
-    release: 21
-    mergedPR: 154
+    since: 2025-12-03
+    release: 20
+    mergedPR: 153
     openPR: 7
-    closedIssue: 133
-    openIssue: 30
-    commit: 0
+    closedIssue: 136
+    openIssue: 27
+    commit: 576
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 52
     mergedPR: 276
     openPR: 7
-    closedIssue: 348
-    openIssue: 40
-    commit: 1423
+    closedIssue: 351
+    openIssue: 37
+    commit: 1425
 total:
   release: 52
   mergedPR: 277
   openPR: 7
-  closedIssue: 349
-  openIssue: 40
-  commit: 1562
+  closedIssue: 352
+  openIssue: 37
+  commit: 1564
 ---
 path: /home/runner/.x-repo/github.com/idursun/jjui
-collectedAt: 2026-11-27T08:23:38Z
+collectedAt: 2026-11-28T07:38:15Z
 loc:
   Go:
-    code: 51109
-    comments: 1669
-    blanks: 7037
-    files: 324
+    code: 51981
+    comments: 1733
+    blanks: 7135
+    files: 327
   Toml:
-    code: 953
-    comments: 52
-    blanks: 76
+    code: 977
+    comments: 54
+    blanks: 78
     files: 3
   Nix:
     code: 188
@@ -121,8 +121,8 @@ loc:
     files: 1
   Lua:
     code: 20
-    comments: 593
-    blanks: 82
+    comments: 616
+    blanks: 84
     files: 1
   Markdown:
     code: 0
@@ -130,11 +130,11 @@ loc:
     blanks: 231
     files: 6
 total:
-  code: 52491
-  comments: 2751
-  blanks: 7481
-  files: 350
+  code: 53387
+  comments: 2840
+  blanks: 7583
+  files: 353
 ---
 
 ---
-{"id":459924489,"author":{"login":"idursun","id":103216,"node_id":"MDQ6VXNlcjEwMzIxNg==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMusg3s4baeQJ","tag_name":"v0.10.14","target_commitish":"main","name":"v0.10.14","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-24T21:19:48Z","updated_at":"2026-11-26T21:35:22Z","published_at":"2026-11-26T21:34:42Z","assets":[{"id":797791501,"node_id":"RA_kwDOMusg3s4vjVUN","name":"jjui-0.10.14-darwin-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8948360,"digest":"sha256:a7e9c5c0673d9e035ae422d95f8817c55593591c9cdd1bf79e03b44c884af071","download_count":8,"created_at":"2026-11-26T21:35:21Z","updated_at":"2026-11-26T21:35:22Z"},{"id":797791380,"node_id":"RA_kwDOMusg3s4vjVSU","name":"jjui-0.10.14-darwin-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8414399,"digest":"sha256:de236756a408a9ab20524df4b87ea90028df0423e4d40413a04d6569e1adc777","download_count":9,"created_at":"2026-11-26T21:35:18Z","updated_at":"2026-11-26T21:35:19Z"},{"id":797791440,"node_id":"RA_kwDOMusg3s4vjVTQ","name":"jjui-0.10.14-linux-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8907361,"digest":"sha256:9ba18912b31792387ea1b7cd71689d5f2bd69c9dd3010fd83907d4dfa3bf0654","download_count":64,"created_at":"2026-11-26T21:35:20Z","updated_at":"2026-11-26T21:35:21Z"},{"id":797791196,"node_id":"RA_kwDOMusg3s4vjVPc","name":"jjui-0.10.14-linux-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8132603,"digest":"sha256:b565615e2b55fd7c2551ad0108d3356387c907d57696b6f805e29fa1dd8e4475","download_count":11,"created_at":"2026-11-26T21:35:15Z","updated_at":"2026-11-26T21:35:15Z"},{"id":797791466,"node_id":"RA_kwDOMusg3s4vjVTq","name":"jjui-0.10.14-windows-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8999688,"digest":"sha256:3b3ede4590444b5ba0fd5cb418fdf5e3995d4fff7677bcca777616d0bf732f70","download_count":43,"created_at":"2026-11-26T21:35:21Z","updated_at":"2026-11-26T21:35:21Z"},{"id":797791205,"node_id":"RA_kwDOMusg3s4vjVPl","name":"jjui-0.10.14-windows-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8231673,"digest":"sha256:dcad3be61a89e71e96383090187563879dc54e18be340773d20bd036e355bee8","download_count":19,"created_at":"2026-11-26T21:35:15Z","updated_at":"2026-11-26T21:35:16Z"}],"body":"A small release to wrap up the v0.10 series before moving on to [v0.11](https://github.com/idursun/jjui/discussions/781).\r\n\r\nYou can now resize the preview from Lua, abandon now works the same way as `jj abandon`, and there are a few bookmark fixes.\r\n\r\n## Improvements\r\n\r\n### Set the preview size from Lua\r\n\r\n`ui.preview` has two new functions: `set_size(percent)` sets how much space the preview takes, and `size()` returns the current size. `set_size` opens the preview if it is hidden and keeps focus on the revisions list. It also accepts `100`, which lets the preview take the full screen. Expanding the preview or dragging the separator still stops before that point.\r\n\r\nFor example, this binds `alt+p` to toggle a full-screen preview:\r\n\r\n```toml\r\n[[actions]]\r\nname = \"toggle preview full size\"\r\nlua = '''\r\nif jjui.ui.preview.size() == 100 then\r\n  jjui.ui.preview.set_size(50)\r\nelse\r\n  jjui.ui.preview.set_size(100)\r\nend\r\n'''\r\nkey = \"alt+p\"\r\nscope = \"ui\"\r\ndesc = \"Toggle preview full size\"\r\n```\r\n\r\n(#776)\r\n\r\n### Wider help view\r\n\r\nThe help view can now grow to 120 columns, up from 90. Entries no longer have `(when ...)` conditions appended to them. Bindings that don't apply to the current selection are still struck through.\r\n\r\n## Fixes\r\n\r\n### Rename bookmarks with spaces\r\n\r\nThe bookmark pane's rename prompt now replaces spaces with hyphens, the same way the set bookmark prompt does. Before, a name with spaces made `jj bookmark rename` fail.\r\n\r\n(#779)\r\n\r\n### Filter bookmark items by the exact remote\r\n\r\nWhen you pick a remote in the bookmarks menu, it now lists only that remote's track/untrack items. Before, it matched remote names as substrings, so with remotes `up` and `upstream`, picking `up` also listed `track 'feature@upstream'`.\r\n\r\n(#787)\r\n\r\n## Notes\r\n\r\n### Abandon now deletes bookmarks\r\n\r\nAbandon now behaves like `jj abandon` and deletes bookmarks on the abandoned revisions. Before, jjui passed `--retain-bookmarks`, which moved them to the parent. To get the old behaviour back, add this to `config.toml`:\r\n\r\n```toml\r\n[revisions.abandon]\r\nretain_bookmarks = true\r\n```\r\n\r\n(#783)\r\n\r\n\r\n## What's Changed\r\n* fix: Make abandon command behave the same as jj abandon by @dnnr in https://github.com/idursun/jjui/pull/783\r\n* fix(bookmarkpane): replace spaces with hyphens when renaming a bookmark by @aliassar in https://github.com/idursun/jjui/pull/779\r\n* fix(bookmarks): match the selected remote exactly when filtering by @aliassar in https://github.com/idursun/jjui/pull/787\r\n\r\n## New Contributors\r\n* @dnnr made their first contribution in https://github.com/idursun/jjui/pull/783\r\n* @aliassar made their first contribution in https://github.com/idursun/jjui/pull/779\r\n\r\n**Full Changelog**: https://github.com/idursun/jjui/compare/v0.10.13...v0.10.14","mentions_count":2}
+{"id":459924489,"author":{"login":"idursun","id":103216,"node_id":"MDQ6VXNlcjEwMzIxNg==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOMusg3s4baeQJ","tag_name":"v0.10.14","target_commitish":"main","name":"v0.10.14","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-24T21:19:48Z","updated_at":"2026-11-26T21:35:22Z","published_at":"2026-11-26T21:34:42Z","assets":[{"id":797791501,"node_id":"RA_kwDOMusg3s4vjVUN","name":"jjui-0.10.14-darwin-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8948360,"digest":"sha256:a7e9c5c0673d9e035ae422d95f8817c55593591c9cdd1bf79e03b44c884af071","download_count":11,"created_at":"2026-11-26T21:35:21Z","updated_at":"2026-11-26T21:35:22Z"},{"id":797791380,"node_id":"RA_kwDOMusg3s4vjVSU","name":"jjui-0.10.14-darwin-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8414399,"digest":"sha256:de236756a408a9ab20524df4b87ea90028df0423e4d40413a04d6569e1adc777","download_count":30,"created_at":"2026-11-26T21:35:18Z","updated_at":"2026-11-26T21:35:19Z"},{"id":797791440,"node_id":"RA_kwDOMusg3s4vjVTQ","name":"jjui-0.10.14-linux-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8907361,"digest":"sha256:9ba18912b31792387ea1b7cd71689d5f2bd69c9dd3010fd83907d4dfa3bf0654","download_count":176,"created_at":"2026-11-26T21:35:20Z","updated_at":"2026-11-26T21:35:21Z"},{"id":797791196,"node_id":"RA_kwDOMusg3s4vjVPc","name":"jjui-0.10.14-linux-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8132603,"digest":"sha256:b565615e2b55fd7c2551ad0108d3356387c907d57696b6f805e29fa1dd8e4475","download_count":22,"created_at":"2026-11-26T21:35:15Z","updated_at":"2026-11-26T21:35:15Z"},{"id":797791466,"node_id":"RA_kwDOMusg3s4vjVTq","name":"jjui-0.10.14-windows-amd64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8999688,"digest":"sha256:3b3ede4590444b5ba0fd5cb418fdf5e3995d4fff7677bcca777616d0bf732f70","download_count":104,"created_at":"2026-11-26T21:35:21Z","updated_at":"2026-11-26T21:35:21Z"},{"id":797791205,"node_id":"RA_kwDOMusg3s4vjVPl","name":"jjui-0.10.14-windows-arm64.zip","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/zip","state":"uploaded","size":8231673,"digest":"sha256:dcad3be61a89e71e96383090187563879dc54e18be340773d20bd036e355bee8","download_count":24,"created_at":"2026-11-26T21:35:15Z","updated_at":"2026-11-26T21:35:16Z"}],"body":"A small release to wrap up the v0.10 series before moving on to [v0.11](https://github.com/idursun/jjui/discussions/781).\r\n\r\nYou can now resize the preview from Lua, abandon now works the same way as `jj abandon`, and there are a few bookmark fixes.\r\n\r\n## Improvements\r\n\r\n### Set the preview size from Lua\r\n\r\n`ui.preview` has two new functions: `set_size(percent)` sets how much space the preview takes, and `size()` returns the current size. `set_size` opens the preview if it is hidden and keeps focus on the revisions list. It also accepts `100`, which lets the preview take the full screen. Expanding the preview or dragging the separator still stops before that point.\r\n\r\nFor example, this binds `alt+p` to toggle a full-screen preview:\r\n\r\n```toml\r\n[[actions]]\r\nname = \"toggle preview full size\"\r\nlua = '''\r\nif jjui.ui.preview.size() == 100 then\r\n  jjui.ui.preview.set_size(50)\r\nelse\r\n  jjui.ui.preview.set_size(100)\r\nend\r\n'''\r\nkey = \"alt+p\"\r\nscope = \"ui\"\r\ndesc = \"Toggle preview full size\"\r\n```\r\n\r\n(#776)\r\n\r\n### Wider help view\r\n\r\nThe help view can now grow to 120 columns, up from 90. Entries no longer have `(when ...)` conditions appended to them. Bindings that don't apply to the current selection are still struck through.\r\n\r\n## Fixes\r\n\r\n### Rename bookmarks with spaces\r\n\r\nThe bookmark pane's rename prompt now replaces spaces with hyphens, the same way the set bookmark prompt does. Before, a name with spaces made `jj bookmark rename` fail.\r\n\r\n(#779)\r\n\r\n### Filter bookmark items by the exact remote\r\n\r\nWhen you pick a remote in the bookmarks menu, it now lists only that remote's track/untrack items. Before, it matched remote names as substrings, so with remotes `up` and `upstream`, picking `up` also listed `track 'feature@upstream'`.\r\n\r\n(#787)\r\n\r\n## Notes\r\n\r\n### Abandon now deletes bookmarks\r\n\r\nAbandon now behaves like `jj abandon` and deletes bookmarks on the abandoned revisions. Before, jjui passed `--retain-bookmarks`, which moved them to the parent. To get the old behaviour back, add this to `config.toml`:\r\n\r\n```toml\r\n[revisions.abandon]\r\nretain_bookmarks = true\r\n```\r\n\r\n(#783)\r\n\r\n\r\n## What's Changed\r\n* fix: Make abandon command behave the same as jj abandon by @dnnr in https://github.com/idursun/jjui/pull/783\r\n* fix(bookmarkpane): replace spaces with hyphens when renaming a bookmark by @aliassar in https://github.com/idursun/jjui/pull/779\r\n* fix(bookmarks): match the selected remote exactly when filtering by @aliassar in https://github.com/idursun/jjui/pull/787\r\n\r\n## New Contributors\r\n* @dnnr made their first contribution in https://github.com/idursun/jjui/pull/783\r\n* @aliassar made their first contribution in https://github.com/idursun/jjui/pull/779\r\n\r\n**Full Changelog**: https://github.com/idursun/jjui/compare/v0.10.13...v0.10.14","reactions":{"total_count":1,"+1":0,"-1":0,"laugh":0,"hooray":1,"confused":0,"heart":0,"rocket":0,"eyes":0},"mentions_count":2}

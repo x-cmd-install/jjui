@@ -1,0 +1,139 @@
+about:
+  description: "jjui is a TUI designed for interacting with the Jujutsu version control system."
+  license: MIT
+  homepage: https://idursun.github.io/jjui/
+  head: b7049b6
+  archived: false
+  latestVersion: "v0.10.14"
+  latestRelease: "v0.10.14"
+  latestPrerelease: "v0.8.9"
+  collectedAt: 2026-11-28T07:38:12Z
+timeline:
+  created: 2024-09-08
+  lastCommit: 2026-11-26
+  lastVersion: 2026-11-26
+  lastRelease: 2026-11-26
+  lastPrerelease: 2025-06-11
+popularity:
+  star: 2252
+  watcher: 10
+  fork: 124
+  release: 52
+  contributor: 56
+  pullRequest: 322
+  issue: 389
+language:
+  Go: 1738696
+  Lua: 21634
+  Nix: 4451
+  Dockerfile: 2596
+  Shell: 10
+totalBytes: 1767387
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 5
+    openPR: 2
+    closedIssue: 5
+    openIssue: 2
+    commit: 154
+  last60d:
+    since: 2026-09-29
+    release: 3
+    mergedPR: 11
+    openPR: 6
+    closedIssue: 10
+    openIssue: 6
+    commit: 165
+  last90d:
+    since: 2026-08-30
+    release: 5
+    mergedPR: 18
+    openPR: 6
+    closedIssue: 16
+    openIssue: 9
+    commit: 220
+  last180d:
+    since: 2026-06-01
+    release: 8
+    mergedPR: 34
+    openPR: 7
+    closedIssue: 34
+    openIssue: 17
+    commit: 287
+  last360d:
+    since: 2025-12-03
+    release: 20
+    mergedPR: 153
+    openPR: 7
+    closedIssue: 136
+    openIssue: 27
+    commit: 576
+  last720d:
+    since: 2024-12-08
+    release: 52
+    mergedPR: 276
+    openPR: 7
+    closedIssue: 351
+    openIssue: 37
+    commit: 1425
+total:
+  release: 52
+  mergedPR: 277
+  openPR: 7
+  closedIssue: 352
+  openIssue: 37
+  commit: 1564
+---
+path: /home/runner/.x-repo/github.com/idursun/jjui
+collectedAt: 2026-11-28T07:38:15Z
+loc:
+  Go:
+    code: 51981
+    comments: 1733
+    blanks: 7135
+    files: 327
+  Toml:
+    code: 977
+    comments: 54
+    blanks: 78
+    files: 3
+  Nix:
+    code: 188
+    comments: 3
+    blanks: 21
+    files: 11
+  Yaml:
+    code: 88
+    comments: 0
+    blanks: 12
+    files: 3
+  Sh:
+    code: 53
+    comments: 11
+    blanks: 7
+    files: 1
+  Dockerfile:
+    code: 50
+    comments: 7
+    blanks: 9
+    files: 1
+  Lua:
+    code: 20
+    comments: 616
+    blanks: 84
+    files: 1
+  Markdown:
+    code: 0
+    comments: 407
+    blanks: 231
+    files: 6
+total:
+  code: 53387
+  comments: 2840
+  blanks: 7583
+  files: 353
+---
+
+---
